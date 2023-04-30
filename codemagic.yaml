@@ -1,4 +1,4 @@
-workflows: test
+workflows:
   ios-app:
     name: iOS App
     environment:
